@@ -1,5 +1,5 @@
 - 👋🏼 Hi, I’m @TranFrank
-- 🌱 I’m currently learning Cyber Security, Python, Bash.
+- 🌱 I’m currently learning Cyber Security, Python, SQL.
 - 🧠 I’m looking to collaborate on Coding Stuff
 - 👀 I’m interested in Games, exercise, Woodworking, puzzles, sustainability, education
 - 📫 ninjaft@duck.com
