@@ -3,7 +3,6 @@
 - 🧠 I’m looking to collaborate on Coding Stuff
 - 👀 I’m interested in Games, exercise, Woodworking, puzzles, sustainability, education
 - 📫 ninjaft@duck.com
-- 🐤 @TheBlueFoxFrank on Twitter 
 
 <!---
 TranFrank/TranFrank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
